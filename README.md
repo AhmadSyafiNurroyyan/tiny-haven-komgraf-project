@@ -1,8 +1,9 @@
 # Tiny Haven
-
-![Ikon Tiny Haven](assets/icon/icon-game.svg)
-
 A Cozy Miniature World Builders
+
+<p align="center">
+  <img src="assets/icon/icon-game.png" alt="Ikon Tiny Haven" width="160">
+</p>
 
 ## Teknologi
 - Godot versi: 4.7.2 
@@ -22,5 +23,5 @@ cd tiny-haven-komgraf-project
 Buka `project.godot` lewat Godot Project Manager dan tunggu impor aset selesai.
 
 ## Workflow
-- Kerjakan perubahan di branch `feature/<nama-singkat>`, bukan langsung di `main`.
+- Kerjakan perubahan di branch `feature/<nama-singkat>`, bukan langsung di `main` agar tidak konflik.
 - Awali pesan commit dengan `feat:`, `fix:`, atau `chore:` sesuai perubahan.
