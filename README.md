@@ -2,7 +2,7 @@
 A Cozy Miniature World Builders
 
 <p align="center">
-  <img src="assets/icon/icon-game.png" alt="Ikon Tiny Haven" width="160">
+  <img src="assets/icon/icon-game.png" alt="Ikon Tiny Haven" width="360">
 </p>
 
 ## Teknologi
