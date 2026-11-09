@@ -1,0 +1,10 @@
+config_version=5
+
+[application]
+
+config/name="Tiny Haven"
+config/icon="res://assets/icon-game.svg"
+
+[rendering]
+
+renderer/rendering_method="forward_plus"

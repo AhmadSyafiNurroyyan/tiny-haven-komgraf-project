@@ -1,0 +1,19 @@
+# Godot 4
+.godot/
+*.translation
+
+# Export
+export_presets.cfg
+/build/
+/export/
+/android/
+
+# Blender
+*.blend1
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.agents/
